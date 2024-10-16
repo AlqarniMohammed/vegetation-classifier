@@ -15,7 +15,7 @@ cv_results = cross_validate(model,
                             X_train,
                             y_train,
                             scoring = scoring,
-                            cv = 5)
+                            cv = 10)
 
 print(f"Accuracy: {cv_results['test_accuracy']}")
 print(f"Recall: {cv_results['test_recall']}")
