@@ -27,6 +27,6 @@ This means that our model makes 19 correct predictions out of 20.
 Unfortunately you won't find the Model in this repository because the size of our model is 1536MB, but again, we're with you ;) So no need to worry.
 All you have to do is download the model from [here](https://drive.google.com/uc?export=download&id=1CKaFYKKV13CT44DqQqd-3g5oGKMfTu3p), then put it in a folder called models in parallel with the vegetation folder
 
-If You Have ane questions please contact me [here](www.linkedin.com/in/alqarnimohammed)
+If You Have ane questions please contact me [here](https://linkedin.com/in/alqarnimohammed)
 
 ### Thank You :)
