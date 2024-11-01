@@ -1,0 +1,40 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+
+# Machine Learning & Deep Learning
+scikit-learn==1.5.2
+scikeras==0.13.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter Notebook Environment
+jupyterlab==4.2.5
+ipykernel==6.29.5
+ipython==8.28.0
+nbformat==5.10.4
+nbconvert==7.16.4
+jupyter_server==2.14.2
+jupyter_client==8.6.3
+
+# Utilities and Helper Libraries
+protobuf==4.25.5
+joblib==1.4.2
+threadpoolctl==3.5.0
+requests==2.32.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+PyYAML==6.0.2
+
+# OneHot Encoding and Preprocessing Tools
+pillow==10.4.0  # Required for image manipulation
+h5py==3.12.1  # TensorFlow's HDF5 format support
+
+# Debugging Tools
+debugpy==1.8.7
+
+uvicorn
+fastapi
