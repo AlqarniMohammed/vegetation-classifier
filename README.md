@@ -6,3 +6,6 @@ Building a model that predicts the Cover type of vegetation of trees in large fo
 
 # Dataset : 
 You can view our dataset [here](https://www.kaggle.com/competitions/forest-cover-type-prediction/data)
+
+Unfortunately our dataset is Encoded, but don't worry, you will find the solution in Our Package Code :)
+
